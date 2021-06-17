@@ -1,0 +1,16 @@
+2021-06-13 19:11:52.717  INFO 4364 --- [main] c.o.tech.OracleTechChallengeApplication  : Starting OracleTechChallengeApplication using Java 15.0.1 on DESKTOP-1J8UVOM with PID 4364 (C:\Users\gurub\Desktop\OracleTech-master\target\classes started by gurub in C:\Users\gurub\Desktop\OracleTech-master)
+2021-06-13 19:11:52.720  INFO 4364 --- [main] c.o.tech.OracleTechChallengeApplication  : No active profile set, falling back to default profiles: default
+2021-06-13 19:11:53.530  INFO 4364 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-06-13 19:11:53.539  INFO 4364 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-13 19:11:53.540  INFO 4364 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-06-13 19:11:53.610  INFO 4364 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-13 19:11:53.610  INFO 4364 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 846 ms
+2021-06-13 19:11:53.827  INFO 4364 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-13 19:11:54.346  INFO 4364 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-06-13 19:11:54.358  INFO 4364 --- [main] c.o.tech.OracleTechChallengeApplication  : Started OracleTechChallengeApplication in 2.02 seconds (JVM running for 2.875)
+2021-06-13 19:12:18.763  INFO 4364 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-13 19:12:18.764  INFO 4364 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-13 19:12:18.766  INFO 4364 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-06-13 19:12:19.454  INFO 4364 --- [http-nio-8081-exec-8] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 120 ms
+2021-06-13 21:56:33.577  INFO 4364 --- [RMI TCP Connection(96)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-06-13 21:56:34.002  INFO 4364 --- [RMI TCP Connection(96)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
